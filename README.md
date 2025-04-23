@@ -19,6 +19,11 @@ The objective is to be able to keep track of the Plugins that you have installed
 1. Unpack the zip contents in a folder of your choosing, optionally create a shortcut for the exe file on your desktop
 
 1. The app will require you to have .net core 7 runtime, Don't have it? No worries, the app will send you to a link where you can download it
+macos
+```shell
+brew install --cask dotnet
+dotnet --info
+```
 
 1. With the required runtime installed, you are ready to start
 
